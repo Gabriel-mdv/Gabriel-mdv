@@ -8,12 +8,6 @@ I'm a passionate software developer dedicated to building innovative solutions a
 - Contributing to open-source developer tools
 - Building accessible and responsive web applications
 
-## 🌱 I'm currently learning
-- Advanced machine learning algorithms
-- Cloud optimization strategies
-- System design patterns
-- Rust programming language
-
 ## 👯 I'm looking to collaborate on
 - Open source projects with social impact
 - Developer productivity tools
